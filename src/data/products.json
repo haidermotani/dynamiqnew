@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sample-01",
+    "name": "Sample product 01",
+    "category": "Football",
+    "images": {
+      "front": "/assets/products/sample-01-front.webp",
+      "back": "/assets/products/sample-01-back.webp"
+    },
+    "sizes": ["S", "M", "L", "XL"],
+    "price": null
+  },
+  {
+    "id": "sample-02",
+    "name": "Sample product 02",
+    "category": "Cricket",
+    "images": {
+      "front": "/assets/products/sample-02-front.webp",
+      "back": "/assets/products/sample-02-back.webp"
+    },
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "price": null
+  },
+  {
+    "id": "sample-03",
+    "name": "Sample product 03",
+    "category": "Tees",
+    "images": {
+      "front": "/assets/products/sample-03-front.webp",
+      "back": "/assets/products/sample-03-back.webp"
+    },
+    "sizes": ["S", "M", "L", "XL"],
+    "price": null
+  },
+  {
+    "id": "sample-04",
+    "name": "Sample product 04",
+    "category": "Team Kits",
+    "images": {
+      "front": "/assets/products/sample-04-front.webp",
+      "back": "/assets/products/sample-04-back.webp"
+    },
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "price": null
+  }
+]
+
